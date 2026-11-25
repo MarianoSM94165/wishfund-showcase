@@ -8,10 +8,16 @@ Save products from any online store, organize them into wishlists, get notified 
 
 <!-- Add screenshots to /screenshots and update the paths below -->
 <p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home" />
-  <img src="screenshots/wishlist.png" width="200" alt="Wishlist" />
-  <img src="screenshots/price-history.png" width="200" alt="Price history" />
-  <img src="screenshots/shared.png" width="200" alt="Shared wishlist" />
+  <img src="Wishfund%20picture%201.jpeg" width="200" />
+  <img src="Wishfund%20picture%202.jpeg" width="200" />
+  <img src="Wishfund%20picture%203.jpeg" width="200" />
+  <img src="Wishfund%20picture%204.jpeg" width="200" />
+</p>
+<p align="center">
+  <img src="Wishfund%20picture%205.jpeg" width="200" />
+  <img src="Wishfund%20picture%206.jpeg" width="200" />
+  <img src="Wishfund%20picture%207.jpeg" width="200" />
+  <img src="Wishfund%20picture%208.jpeg" width="200" />
 </p>
 
 ---
