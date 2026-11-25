@@ -4,6 +4,11 @@
 
 Save products from any online store, organize them into wishlists, get notified when prices drop, and share lists with friends and family so nobody buys the same gift twice.
 
+
+https://github.com/user-attachments/assets/dc68cb3d-880b-4501-bd6a-8fbcc8a6a196
+
+
+
 > 🔒 **Source code is private.** This repository is a showcase of the product, its architecture, and the technical decisions behind it. Code walkthrough available upon request.
 
 <!-- Add screenshots to /screenshots and update the paths below -->
